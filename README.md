@@ -45,4 +45,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For questions or suggestions, feel free to contact the project maintainers:
-- Royal Garg: [Your GitHub Profile](https://github.com/Rgarg2002)
+- [Royal Garg](https://github.com/Rgarg2002)
