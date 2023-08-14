@@ -1,5 +1,4 @@
 # YouTube Video Sentiment Analysis
-
 The YouTube Video Sentiment Analysis project is a Python-based application that utilizes the YouTube API to retrieve comments from a specific video, preprocesses those comments, and determines their sentiment as positive or negative using TextBlob and NLTK libraries. Additionally, the GoogleTrans library is used for translation if needed.
 
 ## Features
@@ -20,10 +19,10 @@ The YouTube Video Sentiment Analysis project is a Python-based application that 
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-username/youtube-sentiment-analysis.git
+git clone https://github.com/Rgarg2002/Youtube-Video-Sentiment-Analysis.git
 
 2. Navigate to the project directory:
-cd 
+cd Sentiment\ Analysis\ of\ a\ YouTube\ Video
 
 3. Install the required packages:
 pip install -r requirements.txt
